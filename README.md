@@ -10,6 +10,7 @@
 
 ```
 
+<!--
 <p align="center">
   <a href="https://golang.org">
     <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg" alt="Made with Go">
@@ -24,6 +25,7 @@
     <img src="https://img.shields.io/github/stars/Abhinandan-Khurana/go-dork-google" alt="Stars">
   </a>
 </p>
+-->
 
 <p align="center">
   A powerful and flexible Google dorking tool written in Go for efficient subdomain discovery and information gathering
