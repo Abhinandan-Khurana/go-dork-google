@@ -47,6 +47,12 @@
 - Google Custom Search API key
 - Google Custom Search Engine ID
 
+## 🛠️ Direct Installation
+
+```bash
+go install -v github.com/Abhinandan-Khurana/go-dork-google@latest
+```
+
 ## 🛠️ Installation
 
 ```bash
