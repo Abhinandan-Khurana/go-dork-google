@@ -85,8 +85,6 @@ var (
 	noColor      = flag.Bool("no-color", false, "Disable color output")
 	silent       = flag.Bool("silent", false, "Silent mode - only output results")
 	timeout      = flag.Duration("timeout", 5*time.Minute, "Timeout for the entire search operation")
-	results      []Result
-	resultsMutex sync.Mutex
 	subdomainSet = NewSubdomainSet()
 	logger       *Logger
 )
